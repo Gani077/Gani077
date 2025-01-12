@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gani077&label=Profile%20views&color=0e75b6&style=flat" alt="gani077" /> </p>
 
-- 🔭 I’m currently working on **Build a site to connect people with similar interests**
+- 🔭 I’m currently working on **A site to connect people with similar interests**
 
 - 🌱 I’m currently learning **SQL, Python**
 
